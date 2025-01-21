@@ -1,2 +1,1 @@
-# Nuevo-precurso
-nuevo repositorio de prueba curso
+Este es proyecto es prueba de github para clonar desde gitbash
